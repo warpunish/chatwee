@@ -4,7 +4,7 @@ use Flarum\Event\PostWillBeSaved;
 use Illuminate\Contracts\Events\Dispatcher;
 
 
-  require_once(dirname( __FILE__ ) . "/ChatweeV2_SDK/Chatwee.php");
+  require_once("/home/warpunish/public_html/Test2/ChatweeV2_SDK/Chatwee.php");
 
 
 
