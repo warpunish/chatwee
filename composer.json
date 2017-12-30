@@ -1,0 +1,14 @@
+{
+    "name": "coinpedi/flarum-ext-chatwee",
+    "description": "chatwee integration",
+    "type": "flarum-extension",
+    "require": {
+        "flarum/core": "^0.1.0-beta.6"
+    },
+    "extra": {
+        "flarum-extension": {
+            "title": "Chatwee Integration"
+        }
+    }
+   
+}
